@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/hbs": "^4.0.1",
-    "express": "^4.17.3",
+    "express": "^4.18.1",
     "hbs": "^4.2.0",
     "path": "^0.12.7",
     "requests": "^0.3.0"
