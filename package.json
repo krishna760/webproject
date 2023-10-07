@@ -9,7 +9,7 @@
   "author": "krishna bhandari",
   "license": "ISC",
   "dependencies": {
-    "@types/hbs": "^4.0.1",
+    "@types/hbs": "^4.0.2",
     "express": "^4.17.3",
     "hbs": "^4.2.0",
     "path": "^0.12.7",
